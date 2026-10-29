@@ -1,0 +1,15 @@
+# Quilt Lightbox Site
+
+> Static website for the Quilt Lightbox app: its privacy policy and contact page. Plain HTML and CSS, served by GitHub Pages from the main branch.
+
+## Pages
+
+- [Home](https://caputodavide93.github.io/quilt-lightbox-site/): what the app is
+- [Privacy policy](https://caputodavide93.github.io/quilt-lightbox-site/privacy/): the app collects no data; everything stays on the device
+- [Contact](https://caputodavide93.github.io/quilt-lightbox-site/contact/): email and common questions
+
+## Key facts
+
+- No scripts, forms, cookies, analytics or web fonts.
+- Preview locally: `python3 -m http.server 8000`.
+- Contact: caputodav@gmail.com
